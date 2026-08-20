@@ -1,2 +1,2 @@
 # Cat-with-Gun
-Finale Uni Abgabe
+A project undertaken during the first semester of the degree course
